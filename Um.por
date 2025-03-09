@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+		//1. Escreva um programa em que o usuário informe dois números. Então escreva em tela o maior deles.
 		escreva("Função número maior \n")
 		inteiro num1, num2
 
@@ -20,14 +21,14 @@ programa
 			escreva("O numero maior é "+num2)
 		}
 
-	}	
+	}	
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 197; 
+ * @POSICAO-CURSOR = 193; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

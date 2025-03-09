@@ -1,8 +1,9 @@
 programa
 {
 	
-	funcao inicio() 
+	funcao inicio() 
 	{
+		//3. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 		escreva("Função número maior \n")
 
 		inteiro num1, num2, num3
@@ -32,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 74; 
+ * @POSICAO-CURSOR = 154; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
